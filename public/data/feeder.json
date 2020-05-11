@@ -1,0 +1,6 @@
+{
+    "feeders":[
+        "http://hn.algolia.com/api/v1/search?query=",
+        "http://test.com"
+    ]
+}
